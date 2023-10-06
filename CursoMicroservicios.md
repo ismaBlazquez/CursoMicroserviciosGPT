@@ -69,15 +69,15 @@ Manejo de peticiones y respuestas entre microservicios.
 ---
 
 
-##  Módulo 4: Escalabilidad y Resiliencia
+  Módulo 4: Escalabilidad y Resiliencia
 
 
-### Lección 4.1: Escalabilidad en Microservicios
+ Lección 4.1: Escalabilidad en Microservicios
 Estrategias de escalabilidad horizontal y vertical.
 Uso de contenedores y orquestadores.
 
 
-### Lección 4.2: Tolerancia a Fallos y Resiliencia
+ Lección 4.2: Tolerancia a Fallos y Resiliencia
 Implementación de circuit breakers y retries.
 Manejo de errores y fallback mechanisms.
 
